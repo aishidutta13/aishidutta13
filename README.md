@@ -2,10 +2,14 @@
 
 Aspiring Data Analyst and Python Developer focused on building dashboards, machine learning projects, and data-driven web applications.
 
+## Open To
+Internships, freelance dashboard projects, junior data analyst roles, and Python development opportunities.
+
+
 ## Skills
 Python | SQL | Excel | Flask | Pandas | Machine Learning | Data Visualization
 
-## Featured Projects
+## Projects
 
 - [AI Realtime Gaming Analytics](https://github.com/aishidutta13/AI-realtime-gaming-analytics): Flask ML dashboard for forecasting Steam game demand using historical player data and Steam API context.
 
@@ -25,3 +29,9 @@ Python | SQL | Excel | Flask | Pandas | Machine Learning | Data Visualization
 
 ## Currently Learning
 Deployment, model evaluation, and building cleaner end-to-end analytics products.
+
+
+## Contact
+GitHub: [aishidutta13](https://github.com/aishidutta13)  
+Email: [aishidutta15@gmail.com](mailto:aishidutta15@gmail.com)
+
